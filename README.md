@@ -12,7 +12,9 @@ Group members:
 
 The code to generate synthehtic data is found in ...
 
-The main analysis for the metrics, etc. is found in ...
+The main analysis for the metrics, etc. is found in the jupyter notebook titled ...
 
 
 ## Selected Results from Notebook
+
+... add some png images maybe
