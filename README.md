@@ -16,7 +16,5 @@ Group members:
 ## Selected Results
 We have summarized our obtained results through the following graphs, which are saved in the *Images* folder.
 
-**Privacy vs Utility**
-![Plot for privacy vs utility](https://github.com/rudrakshkapil09/CMPUT622-Project/blob/main/Images/Privacy%20vs%20utility.png?raw=true)
 
 
