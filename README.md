@@ -1,4 +1,4 @@
-# A Study on Utility, Privacy, and Fairness in GAN-generated synthetic data
+# Studying Utility, Privacy, and Fairness in GAN-generated Synthetic Data
 
 This is the code repository for the UofA CMPUT 622 Group Project titled "Studying  Utility, Privacy, and Fairness in GAN-generated synthetic data".
 
