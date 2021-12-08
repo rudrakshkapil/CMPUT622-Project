@@ -9,7 +9,7 @@ Group members:
 
 
 ## Organization of this Repository
-- The code to generate synthehtic data is found in the *Code for generating data* folder.
+- The code to generate synthetic data is found in the *Code for generating data* folder.
 - The synthetic datasets .csv files can be found in the *Synthetic Data* folder.
 - The code for our primary analysis is found in the jupyter notebook titled `Analysis.ipynb`.
 
