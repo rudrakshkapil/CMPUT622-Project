@@ -13,8 +13,6 @@ Group members:
 - The synthetic datasets .csv files can be found in the *Synthetic Data* folder.
 - The code for our primary analysis is found in the jupyter notebook titled `Analysis.ipynb`.
 
-## Selected Results
-We have summarized our obtained results through the following graphs, which are saved in the *Images* folder.
 
 
 
