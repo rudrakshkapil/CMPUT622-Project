@@ -7,7 +7,7 @@ Group members:
 2. Bharathvaj Kumba Mothilal - kumbamot@ualberta.ca
 3. Katyani Singh - katyani@ualberta.ca
 
-Both the final [report](GroupE_Presentation.pdf) and [presentation](GroupE_Report.pdf) are included in this repo. 
+Both the final [report](GroupE_Report.pdf) and [presentation](GroupE_Presentation.pdf) are included in this repo. 
 
 ## Organization of this Repository
 - The code to generate synthetic data is found in the *Code for generating data* folder.
